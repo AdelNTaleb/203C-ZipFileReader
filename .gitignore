@@ -1,0 +1,10 @@
+Release
+Debug
+*.a
+*.lo
+*.o
+*.so
+*.pc
+*.so.*
+*.dylib
+*.log
